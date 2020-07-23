@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+title: Crystalis Randomizer
+description: The developer blog
+
+github:
+  repository_url: https://github.com/crystalis-randomizer/crystalis-randomizer
